@@ -1,4 +1,4 @@
-def multtable(start, stop, number):
+def powertable(start, stop, number):
     """
     Print power <number>
     from <start> to including <stop> 
@@ -6,4 +6,4 @@ def multtable(start, stop, number):
     for i in range(start, stop+1):
         print(f"{i} ^ {number} = {i**number}")
 
-multtable(1, 7, 2)
+powertable(1, 7, 2)
