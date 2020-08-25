@@ -6,12 +6,14 @@ def multtable(start, stop, number):
     for i in range(start, stop+1):
         print(f"{i} x {number} = {i*number}")
 
-multtable(1, 4, 7)
+
+
 
 def powertable(power,num):
     for i in range(1,num+1):
         p = (i)**power
         print(p)
-
-powertable(2,4)
+if __name__ == '__main__':
+    multtable(1, 4, 7)
+    powertable(2,4)
 
