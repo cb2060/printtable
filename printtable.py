@@ -9,7 +9,11 @@ def multtable(start, stop, number):
 if __name__ == '__main__':
     multtable(1, 4, 7)
 
+
 def powertable(power,number):
+    """
+    power branch edit
+    """
     for i in range(1,number+1):
         print(i**power)
 
