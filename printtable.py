@@ -16,3 +16,4 @@ def powertable(base, last_exp, first_exp = 0):
 
 if __name__ == '__main__':
     multtable(1, 4, 7)
+    powertable(3,8)
