@@ -6,4 +6,10 @@ def multtable(start, stop, number):
     for i in range(start, stop+1):
         print(f"{i} x {number} = {i*number}")
 
-multtable(1, 4, 7)
+def powertable(power, stop):
+	"""
+	Print the numbers from 1 to including <stop>
+	raised to the power of <power>
+	"""
+	for i in range(1, stop+1):
+		print(i**power)
