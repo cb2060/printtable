@@ -15,5 +15,6 @@ def powertable(power, stop):
     for i in range (1, stop+1):
         print(i**power)
 
-multtable(1, 4, 7)
-powertable(2,4)
+if __name__ == '__main__:
+    multtable(1, 4, 7)
+    powertable(2,4)
