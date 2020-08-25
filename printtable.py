@@ -21,3 +21,5 @@ def powertable(power, i):
 if __name__ == '__main__':
     multtable(1, 4, 7)
     powertable(2, 4)
+
+#added under branch powers! -ashwini
