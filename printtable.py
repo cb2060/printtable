@@ -14,6 +14,7 @@ def powertable(pow_num,number):
     for i in range(1,number+1):
         print (i**pow_num)
 
-if __name__ == '__main__':
-    
+if __name__ == '__main__': 
     powertable(2,4)
+    powertable(3,3)
+    multtable(1, 4, 7)
