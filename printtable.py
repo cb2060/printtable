@@ -5,9 +5,6 @@ def multtable(start, stop, number):
     """
     for i in range(start, stop+1):
         print(f"{i} x {number} = {i*number}")
-
-
-
 def powertable(pow_num,number):
     """
     Print numbers which from 1 to the <number+1> 
