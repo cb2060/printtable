@@ -16,4 +16,4 @@ def powertable(pow_num,number):
 
 if __name__ == '__main__':
     multtable(1, 4, 7)
-    powertable(3,3)
+    powertable(2,4)
