@@ -8,3 +8,11 @@ def multtable(start, stop, number):
 
 if __name__ == '__main__':
     multtable(1, 4, 7)
+
+
+
+def powertable(power,numbers):
+    for i in range(1,numbers+1):
+        print(i**power)
+
+powertable(2,4)
