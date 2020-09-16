@@ -22,6 +22,7 @@ copyright = '2020, Olav Vahtras'
 author = 'Olav Vahtras'
 
 # The full version, including alpha/beta/rc tags
+master_doc = 'index'
 release = '0.0.1'
 
 
