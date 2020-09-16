@@ -1,3 +1,7 @@
+"A package for generating tables"
+
+__version__ = "0.0.1"
+
 def multtable(start, stop, number):
     """
     Print multiplication table for <number>
