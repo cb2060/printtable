@@ -10,6 +10,8 @@ Welcome to Printtable Demo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   readme.rst
+
 
 
 Indices and tables
