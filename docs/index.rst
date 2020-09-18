@@ -11,6 +11,7 @@ Welcome to Printtable Demo's documentation!
    :caption: Contents:
 
    readme.rst
+   modules.rst
 
 
 
